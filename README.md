@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3aTM1ZHJsNDl3YTh3ZjUyMHo2dzc5NWU4dmM5MW9uZ294cHB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQHtASL5mC8cKPyfSU/giphy.gif" />
+  <img src="https://media.giphy.com/media/tQHtASL5mC8cKPyfSU/giphy.gif" />
 </div>
 
 # Seja Bem-Vindo, eu sou José Wellyson Balbino Feitosa 👋
