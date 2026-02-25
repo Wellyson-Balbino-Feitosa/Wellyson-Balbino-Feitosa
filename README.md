@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Engenheiro%20Backend%20%7C%20Construindo%20Sistemas%20Escal%C3%A1veis&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3aTM1ZHJsNDl3YTh3ZjUyMHo2dzc5NWU4dmM5MW9uZ294cHB0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQHtASL5mC8cKPyfSU/giphy.gif" />
 </div>
 
-# Olá, eu sou Wellyson Balbino Feitosa 👋
+# Seja Bem-Vindo, eu sou José Wellyson Balbino Feitosa 👋
 
 ### 🚀 Sobre Mim
-Sou um **Engenheiro de Software Backend** apaixonado por resolução de problemas. Adoro transformar desafios complexos em soluções limpas, eficientes e escaláveis. Com um forte entusiasmo por sistemas distribuídos e comunicação assíncrona, dedico-me à construção de softwares que não sejam apenas funcionais, mas também altamente performáticos e de fácil manutenção.
+Sou desenvolvedor backend movido pela ideia de que sistemas bem construídos refletem pensamento bem estruturado.
+
+Acredito que software não é somenete sobre código funcional, mas estrutura, intenção, impacto e clareza sempre nas medidas certas. Trabalho projetando APIs escaláveis, sistemas assíncronos e soluções robustas, sempre buscando equilíbrio entre performance, manutenção e simplicidade.
 
 Minha filosofia de engenharia é simples: **Construir de forma robusta, segura e escalável.** Seja projetando APIs RESTful, otimizando consultas de banco de dados ou implementando Clean Architecture, estou sempre em busca da maneira mais elegante de resolver o problema em questão.
 
@@ -47,6 +49,27 @@ Trabalho com uma ampla variedade de tecnologias modernas e busco constantemente 
 - **Qualidade & Confiabilidade:** Comprometido com a entrega de código estável através de **Testes Unitários** rigorosos e automações com pipelines CI/CD.
 
 ---
+## 🚀 Projetos em Destaque
+
+### ⚡ AsyncFlow Engine
+> Motor de processamento assíncrono para filas de alta demanda.
+
+- Arquitetura distribuída
+- Processamento concorrente com Python
+- Foco em escalabilidade horizontal
+- Testes automatizados com Pytest
+
+🔗 [Ver repositório](https://github.com/Wellyson-Balbino-Feitosa/AsyncFlow-Engine)
+
+### 🌐 API Gateway com Autenticação de Alta Performance com Assíncronismo
+> Gateway centralizado com autenticação, rate limiting e roteamento dinâmico.
+
+- Middleware customizado
+- Validação JWT
+- Controle de requisições
+- Arquitetura desacoplada
+
+🔗 [Ver repositório](https://github.com/Wellyson-Balbino-Feitosa/Async-Api-Gateway)
 
 ### 📊 Estatísticas do GitHub
 
@@ -74,10 +97,10 @@ Trabalho com uma ampla variedade de tecnologias modernas e busco constantemente 
 Estou sempre aberto para discutir sobre engenharia de software, desenvolvimento backend, arquitetura de sistemas e oportunidades interessantes! 
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/wellysonbalbino/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@example.com" target="_blank">
+  <a href="mailto:lowlyensnibalbo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
